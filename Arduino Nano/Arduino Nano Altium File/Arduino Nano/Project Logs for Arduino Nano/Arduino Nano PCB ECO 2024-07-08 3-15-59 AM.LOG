@@ -1,0 +1,428 @@
+Added Component: Designator=Arduino1(MODULE_A000005)
+Add component (AddParameter): Name = "Category"; Value = "Embedded Processors and Controllers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/2398/arduinonanomanual23-2398236.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/2398/arduinonanomanual23-2398236.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/4926/arduino-arduinoboardnano-188748-4926316.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/4926/arduino-arduinoboardnano-188748-4926316.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/1414/810078-1414124.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/1414/810078-1414124.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/1336/1682238-1336473.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/1336/1682238-1336473.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/19455/2121148-19455443.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/19455/2121148-19455443.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "A000005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=24.9 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "1289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1050-1001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C1(SAMTEC_DW-15-12-G-S-807)
+Add component (AddParameter): Name = "Body Breadth"; Value = "0.094inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Depth"; Value = "0.334inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Length"; Value = "1.52inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/SUCS/SUCSS00270/SUCSS00270-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/SUCS/SUCSS00270/SUCSS00270-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Termination"; Value = "TIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Style"; Value = "SQ PIN-SKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polyester"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PPTC151LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "PP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Option 1"; Value = "LOCKING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "STRAIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Connectors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of PCB Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows Loaded"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarization Key"; Value = "POLARIZED HOUSING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.99, 10=0.836, 80=0.75075, 440=0.61425, 1000=0.546, 5000=0.4875 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current (Signal)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reliability"; Value = "COMMERCIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "14275"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "S7013-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Length"; Value = "0.125inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=C2(SAMTEC_DW-15-12-G-S-807)
+Add component (AddParameter): Name = "Body Breadth"; Value = "0.094inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Depth"; Value = "0.334inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Length"; Value = "1.52inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/SUCS/SUCSS00270/SUCSS00270-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/SUCS/SUCSS00270/SUCSS00270-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Termination"; Value = "TIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Style"; Value = "SQ PIN-SKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polyester"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PPTC151LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "PP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Option 1"; Value = "LOCKING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "STRAIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Connectors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of PCB Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows Loaded"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarization Key"; Value = "POLARIZED HOUSING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.99, 10=0.836, 80=0.75075, 440=0.61425, 1000=0.546, 5000=0.4875 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current (Signal)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reliability"; Value = "COMMERCIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "14275"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "S7013-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Length"; Value = "0.125inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=C3(SAMTEC_DW-15-12-G-S-807)
+Add component (AddParameter): Name = "Body Breadth"; Value = "0.094inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Depth"; Value = "0.334inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Length"; Value = "1.52inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/SUCS/SUCSS00270/SUCSS00270-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/SUCS/SUCSS00270/SUCSS00270-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Termination"; Value = "TIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Style"; Value = "SQ PIN-SKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polyester"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PPTC151LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "PP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Option 1"; Value = "LOCKING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "STRAIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Connectors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of PCB Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows Loaded"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarization Key"; Value = "POLARIZED HOUSING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.99, 10=0.836, 80=0.75075, 440=0.61425, 1000=0.546, 5000=0.4875 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current (Signal)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reliability"; Value = "COMMERCIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "14275"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "S7013-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Length"; Value = "0.125inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=C4(SAMTEC_DW-15-12-G-S-807)
+Add component (AddParameter): Name = "Body Breadth"; Value = "0.094inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Depth"; Value = "0.334inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Length"; Value = "1.52inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/SUCS/SUCSS00270/SUCSS00270-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/SUCS/SUCSS00270/SUCSS00270-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Termination"; Value = "TIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Style"; Value = "SQ PIN-SKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polyester"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PPTC151LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "PP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Option 1"; Value = "LOCKING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "STRAIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Connectors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of PCB Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows Loaded"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarization Key"; Value = "POLARIZED HOUSING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.99, 10=0.836, 80=0.75075, 440=0.61425, 1000=0.546, 5000=0.4875 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current (Signal)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reliability"; Value = "COMMERCIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "14275"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "S7013-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Length"; Value = "0.125inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=C5(SAMTEC_DW-15-12-G-S-807)
+Add component (AddParameter): Name = "Body Breadth"; Value = "0.094inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Depth"; Value = "0.334inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Length"; Value = "1.52inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/SUCS/SUCSS00270/SUCSS00270-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/SUCS/SUCSS00270/SUCSS00270-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Termination"; Value = "TIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Style"; Value = "SQ PIN-SKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polyester"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PPTC151LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "PP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Option 1"; Value = "LOCKING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "STRAIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Connectors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of PCB Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows Loaded"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarization Key"; Value = "POLARIZED HOUSING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.99, 10=0.836, 80=0.75075, 440=0.61425, 1000=0.546, 5000=0.4875 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current (Signal)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reliability"; Value = "COMMERCIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "14275"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "S7013-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Length"; Value = "0.125inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=C6(SAMTEC_DW-15-12-G-S-807)
+Add component (AddParameter): Name = "Body Breadth"; Value = "0.094inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Depth"; Value = "0.334inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Length"; Value = "1.52inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/SUCS/SUCSS00270/SUCSS00270-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/SUCS/SUCSS00270/SUCSS00270-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Termination"; Value = "TIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Style"; Value = "SQ PIN-SKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polyester"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PPTC151LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "PP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Option 1"; Value = "LOCKING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "STRAIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Connectors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of PCB Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows Loaded"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarization Key"; Value = "POLARIZED HOUSING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.99, 10=0.836, 80=0.75075, 440=0.61425, 1000=0.546, 5000=0.4875 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current (Signal)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reliability"; Value = "COMMERCIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "14275"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "S7013-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Length"; Value = "0.125inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1 Pin=Arduino1-1
+Added Pin To Net: NetName=1 Pin=C1-01
+Added Pin To Net: NetName=1 Pin=C2-01
+Added Pin To Net: NetName=1 Pin=C3-01
+Added Net: Name=1
+Added Pin To Net: NetName=2 Pin=Arduino1-2
+Added Pin To Net: NetName=2 Pin=C1-02
+Added Pin To Net: NetName=2 Pin=C2-02
+Added Pin To Net: NetName=2 Pin=C3-02
+Added Net: Name=2
+Added Pin To Net: NetName=3 Pin=Arduino1-3
+Added Pin To Net: NetName=3 Pin=C1-03
+Added Pin To Net: NetName=3 Pin=C2-03
+Added Pin To Net: NetName=3 Pin=C3-03
+Added Net: Name=3
+Added Pin To Net: NetName=4 Pin=Arduino1-4
+Added Pin To Net: NetName=4 Pin=C1-04
+Added Pin To Net: NetName=4 Pin=C2-04
+Added Pin To Net: NetName=4 Pin=C3-04
+Added Net: Name=4
+Added Pin To Net: NetName=5 Pin=Arduino1-5
+Added Pin To Net: NetName=5 Pin=C1-05
+Added Pin To Net: NetName=5 Pin=C2-05
+Added Pin To Net: NetName=5 Pin=C3-05
+Added Net: Name=5
+Added Pin To Net: NetName=6 Pin=Arduino1-6
+Added Pin To Net: NetName=6 Pin=C1-06
+Added Pin To Net: NetName=6 Pin=C2-06
+Added Pin To Net: NetName=6 Pin=C3-06
+Added Net: Name=6
+Added Pin To Net: NetName=7 Pin=Arduino1-7
+Added Pin To Net: NetName=7 Pin=C1-07
+Added Pin To Net: NetName=7 Pin=C2-07
+Added Pin To Net: NetName=7 Pin=C3-07
+Added Net: Name=7
+Added Pin To Net: NetName=8 Pin=Arduino1-8
+Added Pin To Net: NetName=8 Pin=C1-08
+Added Pin To Net: NetName=8 Pin=C2-08
+Added Pin To Net: NetName=8 Pin=C3-08
+Added Net: Name=8
+Added Pin To Net: NetName=9 Pin=Arduino1-9
+Added Pin To Net: NetName=9 Pin=C1-09
+Added Pin To Net: NetName=9 Pin=C2-09
+Added Pin To Net: NetName=9 Pin=C3-09
+Added Net: Name=9
+Added Pin To Net: NetName=10 Pin=Arduino1-10
+Added Pin To Net: NetName=10 Pin=C1-10
+Added Pin To Net: NetName=10 Pin=C2-10
+Added Pin To Net: NetName=10 Pin=C3-10
+Added Net: Name=10
+Added Pin To Net: NetName=11 Pin=Arduino1-11
+Added Pin To Net: NetName=11 Pin=C1-11
+Added Pin To Net: NetName=11 Pin=C2-11
+Added Pin To Net: NetName=11 Pin=C3-11
+Added Net: Name=11
+Added Pin To Net: NetName=12 Pin=Arduino1-12
+Added Pin To Net: NetName=12 Pin=C1-12
+Added Pin To Net: NetName=12 Pin=C2-12
+Added Pin To Net: NetName=12 Pin=C3-12
+Added Net: Name=12
+Added Pin To Net: NetName=13 Pin=Arduino1-13
+Added Pin To Net: NetName=13 Pin=C1-13
+Added Pin To Net: NetName=13 Pin=C2-13
+Added Pin To Net: NetName=13 Pin=C3-13
+Added Net: Name=13
+Added Pin To Net: NetName=14 Pin=Arduino1-14
+Added Pin To Net: NetName=14 Pin=C1-14
+Added Pin To Net: NetName=14 Pin=C2-14
+Added Pin To Net: NetName=14 Pin=C3-14
+Added Net: Name=14
+Added Pin To Net: NetName=15 Pin=Arduino1-15
+Added Pin To Net: NetName=15 Pin=C1-15
+Added Pin To Net: NetName=15 Pin=C2-15
+Added Pin To Net: NetName=15 Pin=C3-15
+Added Net: Name=15
+Added Pin To Net: NetName=16 Pin=Arduino1-16
+Added Pin To Net: NetName=16 Pin=C4-15
+Added Pin To Net: NetName=16 Pin=C5-01
+Added Pin To Net: NetName=16 Pin=C6-01
+Added Net: Name=16
+Added Pin To Net: NetName=17 Pin=Arduino1-17
+Added Pin To Net: NetName=17 Pin=C4-14
+Added Pin To Net: NetName=17 Pin=C5-02
+Added Pin To Net: NetName=17 Pin=C6-02
+Added Net: Name=17
+Added Pin To Net: NetName=18 Pin=Arduino1-18
+Added Pin To Net: NetName=18 Pin=C4-13
+Added Pin To Net: NetName=18 Pin=C5-03
+Added Pin To Net: NetName=18 Pin=C6-03
+Added Net: Name=18
+Added Pin To Net: NetName=19 Pin=Arduino1-19
+Added Pin To Net: NetName=19 Pin=C4-12
+Added Pin To Net: NetName=19 Pin=C5-04
+Added Pin To Net: NetName=19 Pin=C6-04
+Added Net: Name=19
+Added Pin To Net: NetName=20 Pin=Arduino1-20
+Added Pin To Net: NetName=20 Pin=C4-11
+Added Pin To Net: NetName=20 Pin=C5-05
+Added Pin To Net: NetName=20 Pin=C6-05
+Added Net: Name=20
+Added Pin To Net: NetName=21 Pin=Arduino1-21
+Added Pin To Net: NetName=21 Pin=C4-10
+Added Pin To Net: NetName=21 Pin=C5-06
+Added Pin To Net: NetName=21 Pin=C6-06
+Added Net: Name=21
+Added Pin To Net: NetName=22 Pin=Arduino1-22
+Added Pin To Net: NetName=22 Pin=C4-09
+Added Pin To Net: NetName=22 Pin=C5-07
+Added Pin To Net: NetName=22 Pin=C6-07
+Added Net: Name=22
+Added Pin To Net: NetName=23 Pin=Arduino1-23
+Added Pin To Net: NetName=23 Pin=C4-08
+Added Pin To Net: NetName=23 Pin=C5-08
+Added Pin To Net: NetName=23 Pin=C6-08
+Added Net: Name=23
+Added Pin To Net: NetName=24 Pin=Arduino1-24
+Added Pin To Net: NetName=24 Pin=C4-07
+Added Pin To Net: NetName=24 Pin=C5-09
+Added Pin To Net: NetName=24 Pin=C6-09
+Added Net: Name=24
+Added Pin To Net: NetName=25 Pin=Arduino1-25
+Added Pin To Net: NetName=25 Pin=C4-06
+Added Pin To Net: NetName=25 Pin=C5-10
+Added Pin To Net: NetName=25 Pin=C6-10
+Added Net: Name=25
+Added Pin To Net: NetName=26 Pin=Arduino1-26
+Added Pin To Net: NetName=26 Pin=C4-05
+Added Pin To Net: NetName=26 Pin=C5-11
+Added Pin To Net: NetName=26 Pin=C6-11
+Added Net: Name=26
+Added Pin To Net: NetName=27 Pin=Arduino1-27
+Added Pin To Net: NetName=27 Pin=C4-04
+Added Pin To Net: NetName=27 Pin=C5-12
+Added Pin To Net: NetName=27 Pin=C6-12
+Added Net: Name=27
+Added Pin To Net: NetName=28 Pin=Arduino1-28
+Added Pin To Net: NetName=28 Pin=C4-03
+Added Pin To Net: NetName=28 Pin=C5-13
+Added Pin To Net: NetName=28 Pin=C6-13
+Added Net: Name=28
+Added Pin To Net: NetName=29 Pin=Arduino1-29
+Added Pin To Net: NetName=29 Pin=C4-02
+Added Pin To Net: NetName=29 Pin=C5-14
+Added Pin To Net: NetName=29 Pin=C6-14
+Added Net: Name=29
+Added Pin To Net: NetName=30 Pin=Arduino1-30
+Added Pin To Net: NetName=30 Pin=C4-01
+Added Pin To Net: NetName=30 Pin=C5-15
+Added Pin To Net: NetName=30 Pin=C6-15
+Added Net: Name=30
+Added Class: Name=Arduino nano
