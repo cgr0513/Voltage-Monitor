@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Voltage Monitor 4 Cell.PrjPcb]
+   Generated File[Battery Monitor.GTO]
+   Generated File[Battery Monitor.GTP]
+   Generated File[Battery Monitor.GTS]
+   Generated File[Battery Monitor.GTL]
+   Generated File[Battery Monitor.GBL]
+   Generated File[Battery Monitor.GBS]
+   Generated File[Battery Monitor.GBP]
+   Generated File[Battery Monitor.GBO]
+   Generated File[Battery Monitor.GM]
+   Generated File[Battery Monitor.EXTREP]
+   Generated File[Battery Monitor.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 11:52:29 PM On 2024-07-11

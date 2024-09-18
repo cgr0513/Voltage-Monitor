@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=14.8 V Pin=MOS1-2
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=11.1 V Pin=PIO-1
+Removed Pin From Net: NetName=NetP2_1 Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=NetP2_2 Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=NetP2_3 Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=NetR1_1 Pin=U1-2
+Removed Pin From Net: NetName=NetR3_2 Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=NetR7_2 Pin=U1-5
+Removed Pin From Net: NetName=NetR5_1 Pin=U1-6
+Removed Pin From Net: NetName=NetR9_1 Pin=U1-9
+Removed Pin From Net: NetName=NetR11_2 Pin=U1-10
+Change Component Comment : Designator=R2 Old Comment=1k New Comment=2k
+Change Component Comment : Designator=R3 Old Comment=1k New Comment=2k
+Change Component Comment : Designator=R6 Old Comment=1k New Comment=2k
+Change Component Comment : Designator=R7 Old Comment=1k New Comment=2k
+Change Component Comment : Designator=R10 Old Comment=1k New Comment=2k
+Change Component Comment : Designator=R11 Old Comment=1k New Comment=2k
+Added Pin To Net: NetName=GND Pin=MOS1-3
+Added Pin To Net: NetName=14.8 V Pin=P3-1
+Added Pin To Net: NetName=14.8 V Pin=PIO-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetP2_1 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=NetP2_2 Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=NetP2_3 Pin=R12-1
+Added Pin To Net: NetName=NetR3_2 Pin=U1-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-3
+Added Pin To Net: NetName=3.7 V Pin=U1-4
+Added Pin To Net: NetName=NetR5_1 Pin=U1-5
+Added Pin To Net: NetName=NetR7_2 Pin=U1-6
+Added Pin To Net: NetName=NetR11_2 Pin=U1-9
+Added Pin To Net: NetName=NetR9_1 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=NetMOS1_2 Pin=MOS1-2
+Added Pin To Net: NetName=NetMOS1_2 Pin=P3-2
+Added Net: Name=NetMOS1_2

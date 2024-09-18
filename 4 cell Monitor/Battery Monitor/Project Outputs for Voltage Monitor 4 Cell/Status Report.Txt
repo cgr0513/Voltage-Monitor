@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Voltage Monitor 4 Cell.PrjPcb]
+   Generated File[Battery Monitor.TXT]
+   Generated File[Battery Monitor.LDP]
+   Generated File[Battery Monitor.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:57:38 PM On 2024-07-11

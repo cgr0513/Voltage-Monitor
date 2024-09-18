@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Battery Monitor.PcbDoc   2024-07-11  11:57:38 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Battery Monitor.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.813mm (32mil)                                           Round             5         PTH        8.00mm (0.31inch)
+T2      0.889mm (35mil)                                           Round             24        PTH        145.57mm (5.73inch)
+T3      0.9mm (35mil)                                             Round             14        PTH        38.10mm (1.50inch)
+T4      0.991mm (39mil)                                           Round             4         PTH        47.85mm (1.88inch)
+T5      1.1mm (43mil)                                             Round             3         PTH        5.08mm (0.20inch)
+T6      1.245mm (49mil)                                           Round             4         PTH        7.50mm (0.30inch)
+T7      3.1mm (122mil)                                            Round             4         PTH        126.00mm (4.96inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              58
+
+Total Processing Time (hh:mm:ss) : 00:00:00
