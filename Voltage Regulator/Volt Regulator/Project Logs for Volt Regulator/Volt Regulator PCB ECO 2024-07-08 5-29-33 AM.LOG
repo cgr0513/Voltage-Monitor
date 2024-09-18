@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Net5V Reg_3 Pin=5V_4-1
+Removed Pin From Net: NetName=GND Pin=5V_4-2
+Removed Pin From Net: NetName=Net9V Reg_3 Pin=9V_4-1
+Removed Pin From Net: NetName=GND Pin=9V_4-2
+Removed Pin From Net: NetName=Net12V Reg_3 Pin=12V_4-1
+Removed Pin From Net: NetName=GND Pin=12V_4-2
+Removed Pin From Net: NetName=Net5V Reg_1 Pin=14.3V_4-1
+Removed Pin From Net: NetName=GND Pin=14.3V_4-2
+Removed Member From Class: ClassName=Volt Regulator Member=5V_4
+Removed Member From Class: ClassName=Volt Regulator Member=9V_4
+Removed Member From Class: ClassName=Volt Regulator Member=12V_4
+Removed Member From Class: ClassName=Volt Regulator Member=14.3V_4
